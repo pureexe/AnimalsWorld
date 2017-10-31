@@ -8,5 +8,5 @@
 | Project Sourcecode | https://github.com/pureexe/AnimalsWorld/archive/v1.0.0.zip |
 
 ## ภาพตัวอย่าง
-![](https://imgur.com/hGJFfPQ)
+![](https://i.imgur.com/hGJFfPQ.png)
 ![](https://i.imgur.com/e1Z0vHl.png)
